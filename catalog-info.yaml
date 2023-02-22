@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: inventory-quarkus
+  description: |
+    coolstore-demo inventory-quarkus
+  annotations:
+    github.com/project-slug: christophe-f/inventory-quarkus
+spec:
+  type: website
+  owner: janus-authors
+  lifecycle: experimental
