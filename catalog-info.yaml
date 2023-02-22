@@ -10,3 +10,5 @@ spec:
   type: website
   owner: janus-authors
   lifecycle: experimental
+  system: coolstore
+  
